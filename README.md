@@ -10,5 +10,5 @@ An android app to rate songs based on different categories.
 6. To rate other's songs, press the star icon for each song and save.
 
 ### Demo
-<img alt="Rate My Tunes Demo" src="https://github.com/pinetcht/RateMyTunes/blob/main/RateMyTunes%20Demo.gif" width=25% height=25%/>
+<img alt="Rate My Tunes Demo" src="https://github.com/pinetcht/RateMySongs/blob/main/RateMyTunes%20Demo.gif" width=25% height=25%/>
 <a href="https://drive.google.com/file/d/1C9trDJUpb4-fNa4LJJQsAN1ck0yrZ8P5/view?usp=drive_link">Link to Video</a>
